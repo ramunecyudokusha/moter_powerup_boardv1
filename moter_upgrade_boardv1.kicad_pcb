@@ -12806,7 +12806,7 @@
 		(layer "Cmts.User")
 		(uuid "3c89e731-d530-40df-8483-f4d837409116")
 		(pts
-			(xy 50 50) (xy 50.55 125)
+			(xy 51 50) (xy 51.55 125)
 		)
 		(height -10)
 		(orientation 1)
@@ -12828,7 +12828,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "75"
-			(at 38.85 87.5 90)
+			(at 39.85 87.5 90)
 			(layer "Cmts.User")
 			(uuid "3c89e731-d530-40df-8483-f4d837409116")
 			(effects
